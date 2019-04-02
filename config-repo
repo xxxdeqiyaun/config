@@ -1,6 +1,0 @@
-// 开发环境
-spring-cloud-config-dev.properties
-// 测试环境
-spring-cloud-config-test.properties
-// 生产环境
-spring-cloud-config-prod.properties
